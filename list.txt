@@ -1,3 +1,2 @@
-tmp.exe https://github.com/wujiarui2023/c-project/raw/refs/heads/main/tmp.exe
-noname.cpp https://github.com/wujiarui2023/c-project/raw/refs/heads/main/noname.cpp
-yes.cpp https://github.com/wujiarui2023/c-project/raw/refs/heads/main/yes.cpp
+main.exe https://github.com/wujiarui2023/c-project/raw/refs/heads/main/main.exe
+music.mp3 https://github.com/wujiarui2023/c-project/raw/refs/heads/main/music.mp3
